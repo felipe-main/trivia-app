@@ -1,6 +1,6 @@
 # Trivia App Project
 Trivia React Project.\
-https://felipe-main-trivia-app.netlify.app/
+<a href='https://felipe-main-trivia-app.netlify.app/' target='_blank'>link</a>
 
 # Getting Started with Create React App
 
